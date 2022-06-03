@@ -4,7 +4,7 @@ School_District_Analysis using Jupyter Notebook
 The purpose of this analysis is to analyze the school information to provide better visualization to the school board for bugeting for upcoming year. Moreover, this analysis also displays how the numbers changes based on the changed information
 ## Results:
 ### How is the district summary affected?
-Out of 39,170 students, there were only 461 students from Thomas High Schools whose grades were changed due to suspected of academic dishonesty. The district summary result did not affect as much. 
+Out of 39,170 students, there were only 461 students from Thomas High Schools whose grades were changed due to suspected of academic dishonesty. The district summary result did not affect as much. <br />
 Criteria                        Before              After
 Total Budget                    $24,649,428.00      $24,649,428.00
 Average Math Score              79.0                78.9
